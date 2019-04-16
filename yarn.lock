@@ -2082,10 +2082,10 @@
     tslint "^5.15.0"
     webpack ">=4 < 4.29"
 
-"@vue/cli-plugin-unit-jest@3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-3.6.0.tgz#708acc017b75e833478ffb585d9e5350c0a52d80"
-  integrity sha512-4KcAlo2uomtioK49I5rRAx+4OLWGEJu2I+vKVW78crj/MXMBmLsEU4c5ponV2t17Kai3K9QFRld9pxZJP3JttA==
+"@vue/cli-plugin-unit-jest@3.6.3":
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-3.6.3.tgz#008a0fcf81e3a9345e9b9af84b69bd3cb4af45d1"
+  integrity sha512-w8RSDBzkYWe4yTjWy5kcPpAax6mlGSlPG21D5WKuYd00QbG7jh99sqTFF6sZ8RSunCnY0NrrtIXq3XtYJbs0vQ==
   dependencies:
     "@vue/cli-shared-utils" "^3.6.0"
     babel-jest "^23.6.0"
@@ -2175,10 +2175,10 @@
     semver "^6.0.0"
     string.prototype.padstart "^3.0.0"
 
-"@vue/cli-ui-addon-webpack@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-3.6.0.tgz#f07524c4fad476df3761002d0b1ca6355c9eb009"
-  integrity sha512-uEnCcFfUBDDJqJcngZlN1DDsXYbtPkvqfPMEYUJNXxCfVgxSiYpTiFOGMY1B7WzaxrYiRil2h4AUWecSFmsDdA==
+"@vue/cli-ui-addon-webpack@^3.6.3":
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-ui-addon-webpack/-/cli-ui-addon-webpack-3.6.3.tgz#157341d1f00ebbd0adff98d9c44a41fe64cf533d"
+  integrity sha512-l8tZjcjAdsz2fOe/DOhgTg9NcxyeLtqamT3kAjUkOen3+TsMBiFUxDMfbpfg0lSBsCL77rWTzq8ZriZ4mAUR6Q==
 
 "@vue/cli-ui-addon-widgets@^3.6.0":
   version "3.6.0"
@@ -2221,14 +2221,14 @@
     vue-virtual-scroller "^1.0.0-rc.2"
     watch "^1.0.2"
 
-"@vue/cli@3.6.2":
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-3.6.2.tgz#eb5bd5f8bdb9dd508bf43a7142bfdf4a268df973"
-  integrity sha512-VbPPOvuiuJAU6gNNPEmWMiCPb9/Pg/zouAJyFJjB91B9VekIsa1JGUnu6iW3JNrJn58BQvcp7JouAJN4Vmvc7A==
+"@vue/cli@3.6.3":
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli/-/cli-3.6.3.tgz#9509bfaad845d4186317679d693a2ae0ebed0b8e"
+  integrity sha512-NnSc/Bhu7E0dOoYuRqWul4BpsJQagI2jTcMfb694g8N7+ZYBOLjqg4MSs6G9Gin+Nx4MrSmmDHq7vGjaa0o1iw==
   dependencies:
     "@vue/cli-shared-utils" "^3.6.0"
     "@vue/cli-ui" "^3.6.2"
-    "@vue/cli-ui-addon-webpack" "^3.6.0"
+    "@vue/cli-ui-addon-webpack" "^3.6.3"
     "@vue/cli-ui-addon-widgets" "^3.6.0"
     chalk "^2.4.1"
     cmd-shim "^2.0.2"
